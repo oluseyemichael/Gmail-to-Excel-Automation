@@ -1,6 +1,6 @@
 .env
 token.json
 credentials.json
-emails_data.xlsx
+unread_mails.xlsx
 venv/
 __pycache__/
