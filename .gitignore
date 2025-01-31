@@ -1,0 +1,6 @@
+.env
+token.json
+credentials.json
+emails_data.xlsx
+venv/
+__pycache__/
